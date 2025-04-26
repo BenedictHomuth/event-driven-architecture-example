@@ -1,9 +1,9 @@
-# Event Driven Architecture Example
+# Event Driven Architecture Sandbox
 
 <div style="text-align: center; margin-top: 1em;">
     <img src="./static/logo.png" alt="AI generated project logo" style="max-width: 100%; height: auto;" width="450"/>
-    <br>Disclaimer
-    <br>The project logo was generated using artificial intelligence.
+    
+    Disclaimer: This logo was generated using artificial intelligence.
 </div>  
   
 
